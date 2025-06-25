@@ -9,7 +9,7 @@ Before running the node, you need to register an account and obtain your API Key
 
 2. Sign up using your **email address**.
 
-3. After logging in, **copy your API Key** from the dashboard.
+3. After logging in, **Copy your LICENSE at Wallet** from the dashboard.
 
 ---
 
